@@ -10,11 +10,23 @@ Repo: https://github.com/Shallfeu/ChigaMarket
 
 ### 2. FastCompany (Fullstack)
 
+Site: Currently don't have money for server :)
 Repo: https://github.com/Shallfeu/JFD
 
-### 3. ReactPizza
+### 3. PizzaShop
 
+Site: https://react-pizza-blue-sigma.vercel.app/?sortProperty=rating&categoryId=0&currentPage=1
 Repo: https://github.com/Shallfeu/React_Pizza
+
+### 4. FilmGalerie (vanillaJS)
+
+Site: https://vanilla-js-film-gallery.vercel.app/
+Repo: https://github.com/Shallfeu/VanillaJS_filmGallery
+
+### 5. VanillaJSHacatone
+
+Site: https://vanilla-js-hacatone-rlve.vercel.app/
+Repo: https://github.com/Shallfeu/VanillaJS_hacatone
 
 ### Languages and Tools:
 
