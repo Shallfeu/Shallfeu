@@ -1,5 +1,6 @@
-Hello there!
-I'm a beginner software engineer
+# Hi there, I'm Roman!
+
+## I'm a beginner software engineer from Russia 🇷🇺
 
 ### My projects:
 
@@ -30,6 +31,16 @@ Repo: https://github.com/Shallfeu/VanillaJS_hacatone
 
 ### Languages and Tools:
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shallfeu&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shallfeu&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shallfeu&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shallfeu&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daniilshat&theme=solarized_dark)
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=sass&logoColor=097CDB)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react&logoColor=6296CC)
@@ -43,3 +54,11 @@ Repo: https://github.com/Shallfeu/VanillaJS_hacatone
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/Shallfeu_313)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/shallfeu)
+
+### Other:
+
+[![codewars](https://www.codewars.com/users/Shallfeu/badges/large)](https://www.codewars.com/users/Shallfeu)
+
+[![Shallfeu's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Shallfeu&theme=dark)](https://github.com/Shallfeu/leetcode-stats)
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
