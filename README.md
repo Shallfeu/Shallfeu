@@ -5,7 +5,7 @@
 <h2>My projects:</h2>
 <div>
   <h3>1. ChigaMarket (Fullstack)</h3>
-  <div>Site: http://77.223.96.250/</div>
+  <div>Site: on Service</div>
   <div>Repo: https://github.com/Shallfeu/ChigaMarket</div>
 </div>
 
