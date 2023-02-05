@@ -4,13 +4,13 @@
 
 <h2>My projects:</h2>
 <div>
-  <h3>1. ChigaMarket (Fullstack)</h3>
+  <h3>1. ChigaMarket (MERN)</h3>
   <div>Site: on Service</div>
   <div>Repo: https://github.com/Shallfeu/ChigaMarket</div>
 </div>
 
 <div>
-  <h3>2. FastCompany (Fullstack)</h3>
+  <h3>2. FastCompany (MERN)</h3>
   <div>Site: Currently don't have money for server :)</div>
   <div>Repo: https://github.com/Shallfeu/JFD</div>
 </div>
@@ -28,9 +28,9 @@
 </div>
 
 <div>
-  <h3>5. VanillaJSHacatone</h3>
-  <div>Site: https://vanilla-js-hacatone-rlve.vercel.app/</div>
-  <div>Repo: https://github.com/Shallfeu/VanillaJS_hacatone</div>
+  <h3>5. GraphQL Mini Project</h3>
+  <div>Site: -</div>
+  <div>Repo: https://github.com/Shallfeu/GraphQL_getting_started</div>
 </div>
 
 <h2>Languages and Tools:</h2>
