@@ -1,6 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://vk.com/shallfeu" target="_blank">Roman</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I'm a beginner software engineer from Russia</h3>
+<h3 align="center">Check my <a href="https://roaring-bunny-65e130.netlify.app/" target="_blank">website</a></h3>
 
 <h2>My projects:</h2>
 <div>
